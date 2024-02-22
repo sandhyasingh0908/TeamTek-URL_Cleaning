@@ -30,7 +30,7 @@ Extracts the desired sentence from the URLs, with words separated by spaces
 [pathlib]: For working with filesystem paths, making it easier to navigate directories and manipulate file paths
 [re]: For working with regular expressions, allowing for pattern matching and text manipulation tasks
 
-**Workflow: **
+**Workflow:**
 1. Removes clutter from URLs and returns a canonicalized version after installing it using pip command
 2. Removes the unwanted part from the URL and extracts only the relevant string/query
 2.1 Extracts extension of file to covert it into a dataframe using the appropriate method
